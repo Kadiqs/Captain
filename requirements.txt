@@ -1,0 +1,5 @@
+pandas
+qrcode
+google-cloud-texttospeech
+gTTS
+playsound
