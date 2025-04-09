@@ -1,5 +1,6 @@
 pandas
 qrcode
-google-cloud-texttospeech
-gTTS
-playsound
+gtts
+opencv-python
+pyzbar
+google-generativeai
