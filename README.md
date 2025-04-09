@@ -6,7 +6,7 @@
 - 🎙️ Voice-based interaction using text-to-speech (gTTS) (ongoing)
 - 📍 Get stadium details (name, location, capacity, notes) (Done)
 - 🎫 Ticket-related interactions with simulated QR prompt (Done)
-- 🤖 Gemini-powered assistant for general World cup football-related queries
+- 🤖 Gemini-powered assistant for general World cup football-related queries (DONE)
 - 
 
 ---
@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 - `stadiums_qatar.csv`: CSV file containing stadium info
 - `stadium_facilities_qatar.csv`: CSV file with facilities by stadium
-- `main.py`: The core application script
+- `ai_model.py`: The core application script
 
 
 ## 🔊 Text-to-Speech
@@ -69,4 +69,4 @@ Then type your questions! Example prompts:
 - Add error handling for missing CSVs
 - Support voice input (e.g., using `speech_recognition`)
 - text to speech
-"# Captain" 
+
