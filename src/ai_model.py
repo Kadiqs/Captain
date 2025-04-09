@@ -11,7 +11,7 @@ import google.generativeai.types as types
 from ticketing_system import get_ticket_info
 from stadium_info import get_stadium_info, get_match_data
 
-GOOGLE_API_KEY = 'AIzaSyBXHiLMSqQnBRnsQznPJi_SSbdbwplkxSE'
+GOOGLE_API_KEY = 'API_KEY'
 genai.configure(api_key = GOOGLE_API_KEY)
 
 
